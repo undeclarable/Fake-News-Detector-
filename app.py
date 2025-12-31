@@ -145,7 +145,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-s
 {% endif %}
 
 <div class="footer">
-✅ 99% Accurate | Works: India🇮🇳 NASA🌌 ISRO🚀 | Bengaluru 2025
+✅ 99% Accurate | Works: India🇮🇳 NASA🌌 ISRO🚀 | By Kiran Kumar | Bengaluru 2025
 </div>
 </div>
 </body>
